@@ -1,6 +1,7 @@
 # Frontend Mentor - Tip calculator app
+# KNKK - Project Demo
+https://tip-calculator-ix23irpyo-khantnyarkokos-projects.vercel.app/
 
-![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
