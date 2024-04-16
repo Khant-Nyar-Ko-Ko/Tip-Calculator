@@ -1,11 +1,14 @@
-import MainPage from "./pages/MainPage"
+import { BrowserRouter as Router } from "react-router-dom";
+import MainPage from "./pages/MainPage";
 
 const App = () => {
   return (
-    <div>
-      <MainPage/>
-    </div>
-  )
-}
+    <Router>
+      <div>
+        <MainPage />
+      </div>
+    </Router>
+  );
+};
 
-export default App
+export default App;
